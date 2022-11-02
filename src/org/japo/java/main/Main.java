@@ -34,6 +34,6 @@ public class Main {
     public static final Random RND = new Random();
     
     public static void main(String[] args) {
-        
+        System.out.println("Hola mundo");
     }
 }
